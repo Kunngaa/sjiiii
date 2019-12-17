@@ -1,0 +1,56 @@
+.left-top{
+	float:right;
+}
+span.more{
+	background:blue;
+	display:inline;
+}
+.more{
+    float:right;   
+}
+.logoone{
+	margin-left:45%;
+	margin-top:6%;
+	position:absolute;
+}
+.circle{
+	margin-left:48%;
+	margin-top:6%;
+}
+.logotwo{
+	margin-left:52%;
+	margin-top:6%;
+	position:absolute;
+}
+#search-bar{
+	width:650px;
+	height:35px;
+	border:1.5px solid blue;
+	margin:40px auto;
+}
+.button{
+	background-color:blue;
+	border:none;
+	color:white;
+	padding:9px 40px;
+	font-size:20px;
+	cursor:pointer;
+	margin-left:40%;
+	margin-top:-0.25%;
+	position: absolute
+}
+#bottom{
+	background:#f2f2f2;
+	position:fixed;
+	bottom:0;
+	width:100%;
+	height:30px;
+	border-top:1px solid #e4e4e4;
+}
+.circle{
+	width:50px;
+	height:50px;
+	background:blue;
+	border-radius:50%;
+	display:inline-block;
+}
